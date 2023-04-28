@@ -1,0 +1,2 @@
+# Secrets app
+A secrets website that lets you register to the site, encrypting and saving information to MongoDB, it also allows using google to sign in. This was also made using Node.js, Express.js, Mongoose, EJS but I also used Passport for encryption and authentication.
